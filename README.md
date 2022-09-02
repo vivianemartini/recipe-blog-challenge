@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://{https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht/edit?solutionId=gpTc46mUMnId7UUkzv8q}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht/edit?solutionId=gpTc46mUMnId7UUkzv8q}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/vivianemartini/recipe-blog-challenge}">
+    <a href="https://github.com/vivianemartini/recipe-blog-challenge">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/vivianemartini/recipe-blog-challenge/deployments/activity_log?environment=github-pages}">
+    <a href="https://github.com/vivianemartini/recipe-blog-challenge/deployments/activity_log?environment=github-pages}">
       Challenge
     </a>
   </h3>
