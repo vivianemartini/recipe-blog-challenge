@@ -66,3 +66,9 @@ $ npm install
 # Run the app
 $ npm start
 ```
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+- Thanks DevChallenge
